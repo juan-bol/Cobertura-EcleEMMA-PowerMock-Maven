@@ -1,0 +1,1 @@
+# Cobertura-EcleEMMA-PowerMock-Maven
